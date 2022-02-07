@@ -1,5 +1,6 @@
 name: AutoMessage
 version: ${project.version}
+api-version: 1.13
 author: ELCHILEN0
 description: Schedule easily configurable broadcasts!
 website: http://www.novuscraft.org
